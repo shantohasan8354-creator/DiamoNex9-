@@ -6,12 +6,12 @@ var website_name = 𝐃𝐢𝐚𝐦𝐨𝐍𝐞𝐱
 // =======================================================
 // TELEGRAM CHANNEL LINK
 // =======================================================
-var telegram_channel_link = "telegram channel link";
+var telegram_channel_link = "telegram channel link";https://t.me/Diamonex
 
 // =======================================================
 // TELEGRAM GROUP LINK
 // =======================================================
-var telegram_group_link = "telegram group link";
+var telegram_group_link = "telegram group link";https://t.me/+1lVf9CHbi5IxMjc9
 
 // =======================================================
 // YOUTUBE CHANNEL LINK
